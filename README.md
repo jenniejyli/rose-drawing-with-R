@@ -7,7 +7,7 @@ Use R studio to paint roses for your family, friends and lovers.
 The code referenced RED Ploggers @恃心修此身 and @Alice酱不爱吃鱼 for improvement.
 
 Initially appeared on
-[gist](http://xhslink.com/a/1WN9P3fBr96Z).
+[RED Link](http://xhslink.com/a/1WN9P3fBr96Z).
 
 ## Getting Started
 
