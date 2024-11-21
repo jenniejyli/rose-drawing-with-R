@@ -21,7 +21,7 @@ Download and use R Studio.
 
 A step by step series of examples that tell you how to get your own roses on R Studio.
 
-Say what the step will be
+Ensure installing the package or you are unable to draw the roses. 
 
     install.packages("plot3D")
 
