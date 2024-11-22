@@ -45,7 +45,7 @@ Setting up the grid and matrix.
 
   ### Set Up 3D Model
 
-Setting up the 3D plot.
+Setting up the 3D plot. You can replace the template texts with your own texts on the plot.
 
     persp3D(
       x = r*cos(t),
